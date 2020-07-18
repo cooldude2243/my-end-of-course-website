@@ -1,0 +1,18 @@
+.footer-again {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color:  rgba(0, 0, 0, 0.623);;
+    height: 30px;
+    padding: 10px;
+    padding-top: 19px;
+    border: 3px solid rgba(255, 255, 255, 0.568); 
+    color: white;
+    font-weight: 700;
+   
+}
+
+.background {
+    background-color: #070505c5;
+    height: 70px;
+    color: #07050500;
+}
