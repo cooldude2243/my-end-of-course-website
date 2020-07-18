@@ -1,0 +1,63 @@
+.spacer10 {
+    height: 15px
+}
+
+.spacer4 {
+    height: 2px
+}
+
+.features {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #070505c5;
+}
+
+.features > .left-column-again {
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+    font-size: larger;
+    color:#C0C0C0;
+}
+
+.strong {
+    color: white;
+}
+
+.Sign-Up {
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border-radius: 6px;
+    border: 3px solid lightgreen;
+    font-size: medium;
+}
+
+.Learn-More {
+    background-color: black;
+    padding: 13px;
+    border-radius: 6px;
+    border: 3px solid black; 
+    font-size: medium;
+    color: white;
+    
+}
+
+.features > .right-column-again  span {
+    color: lightseagreen;
+}
+
+.features > .right-column-again  p {
+    color: white;
+}
+
+.example img {
+    padding-left: 170px;
+    padding-top: 0px;
+}
+
+.right-column-again p {
+    padding-left: 180px;
+    padding-top: 31px;
+}
